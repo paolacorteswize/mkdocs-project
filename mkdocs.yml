@@ -1,1 +1,6 @@
-site_name: Paola's First Try
+site_name: Paola Cortés
+nav:
+- Home: 'index.md'
+- Documentation Samples: 
+  - API Samples: 'API.md'
+theme: readthedocs
